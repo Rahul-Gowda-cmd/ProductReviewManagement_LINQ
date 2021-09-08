@@ -1,0 +1,12 @@
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\bin\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.exe
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\bin\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.deps.json
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\bin\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.runtimeconfig.json
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\bin\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.runtimeconfig.dev.json
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\bin\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.dll
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\bin\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.pdb
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\obj\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\obj\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.AssemblyInfo.cs
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\obj\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\obj\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.dll
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\obj\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.pdb
+C:\Users\HP\csharp\ProductReviewManagement_LINQ\ProductReviewManagement_LINQ\obj\Debug\netcoreapp3.1\ProductReviewManagement_LINQ.genruntimeconfig.cache
